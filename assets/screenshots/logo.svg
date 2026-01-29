@@ -1,0 +1,39 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aGradient" x1="100" y1="20" x2="100" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" /> 
+      <stop offset="1" stop-color="#06b6d4" /> 
+    </linearGradient>
+    
+    <linearGradient id="techGradient" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67e8f9" /> 
+      <stop offset="1" stop-color="#22d3ee" /> 
+    </linearGradient>
+    
+    <linearGradient id="shieldGradient" x1="100" y1="45" x2="100" y2="135" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7" /> 
+      <stop offset="1" stop-color="#7c3aed" /> 
+    </linearGradient>
+  </defs>
+  
+  <path d="M100 20 L170 180 H130 L100 110 L70 180 H30 L100 20 Z" fill="url(#aGradient)"/>
+  
+  <path d="M100 45 L130 75 C130 105 115 125 100 135 C85 125 70 105 70 75 L100 45 Z" fill="url(#shieldGradient)" fill-opacity="0.9"/>
+  
+  <circle cx="100" cy="85" r="10" fill="white"/>
+  <path d="M94 95 H106 L103 115 H97 L94 95 Z" fill="white"/>
+  
+  <path d="M100 20 L100 45" stroke="url(#techGradient)" stroke-width="2"/>
+  <circle cx="100" cy="20" r="3" fill="url(#techGradient)"/>
+  
+  <path d="M130 75 L155 135" stroke="url(#techGradient)" stroke-width="2"/>
+  <circle cx="130" cy="75" r="3" fill="url(#techGradient)"/>
+  <circle cx="155" cy="135" r="3" fill="url(#techGradient)"/>
+  
+  <path d="M70 75 L45 135" stroke="url(#techGradient)" stroke-width="2"/>
+  <circle cx="70" cy="75" r="3" fill="url(#techGradient)"/>
+  <circle cx="45" cy="135" r="3" fill="url(#techGradient)"/>
+  
+  <path d="M100 135 L100 160" stroke="url(#techGradient)" stroke-width="2"/>
+  <circle cx="100" cy="135" r="3" fill="url(#techGradient)"/>
+</svg>
