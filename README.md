@@ -491,7 +491,7 @@ graph LR
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-support@axiomvault.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=0A1628)](mailto:support@axiomvault.com)
+[![Email](https://img.shields.io/badge/EMAIL-himanshuchaurasiya24@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=0A1628)](mailto:himanshuchaurasiya24@gmail.com)
 [![Developer](https://img.shields.io/badge/DEVELOPER-himanshuchaurasiya24-9D00FF?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0A1628)](https://github.com/himanshuchaurasiya24)
 
 </div>
